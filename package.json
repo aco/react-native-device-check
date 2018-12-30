@@ -1,0 +1,27 @@
+{
+  "name": "react-native-device-check",
+  "version": "1.0.0",
+  "description": "Native bridge to the iOS DeviceCheck API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cewpur/react-native-device-check.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "device",
+    "check",
+    "devicecheck",
+    "ios"
+  ],
+  "author": "cewpur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cewpur/react-native-device-check/issues"
+  },
+  "homepage": "https://github.com/cewpur/react-native-device-check#readme"
+}
